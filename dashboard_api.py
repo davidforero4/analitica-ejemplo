@@ -3,7 +3,8 @@ import requests
 import pandas as pd
 import matplotlib.pyplot as plt
 
-API_BASE_URL = "http://127.0.0.1:8000"
+API_BASE_URL = "https://analitica-ejemplo-production.up.railway.app"
+
 
 
 def obtener_ventas(semana: int) -> pd.DataFrame:
