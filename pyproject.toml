@@ -1,0 +1,16 @@
+[project]
+name = "analitica-ejemplo"
+version = "0.1.0"
+description = "Proyecto de ejemplo para aprender analítica de datos en Python"
+authors = [{ name = "David Forero", email = "forerodavid24@gmail.com" }]
+readme = "1_README.md"
+requires-python = ">=3.10"
+
+dependencies = [
+    "pandas",
+    "matplotlib",
+    "fastapi",
+    "uvicorn[standard]",
+    "scikit-learn",
+    "streamlit"
+]
