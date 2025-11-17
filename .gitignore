@@ -1,0 +1,16 @@
+# Entorno virtual
+.venv/
+
+# Archivos compilados
+__pycache__/
+*.pyc
+
+# Datos que no quieras subir (ahora dejamos ventas.csv, pero en proyectos reales los datos sensibles se excluyen)
+# data/
+
+# Configuración de VS Code
+.vscode/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
