@@ -13,3 +13,9 @@ Cómo ejecutar:
 1. Crear y activar entorno virtual (.venv).
 2. Instalar dependencias: pip install -r requirements.txt
 3. Abrir el notebook en VS Code y ejecutar las celdas.
+
+que existe main.py
+
+que se generan reportes en reports/
+
+que hay dos datasets
